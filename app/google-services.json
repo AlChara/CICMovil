@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "675873877086",
+    "firebase_url": "https://proyectocic-dc343.firebaseio.com",
+    "project_id": "proyectocic-dc343",
+    "storage_bucket": "proyectocic-dc343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675873877086:android:3320a36448ee1937",
+        "android_client_info": {
+          "package_name": "org.cic.cicmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675873877086-t3tltpljlgl358mo3g3f8b8r1iirp1s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.cic.cicmovil",
+            "certificate_hash": "88463d11e2d2a29f63b080c0ca07c6b7cfd84f4a"
+          }
+        },
+        {
+          "client_id": "675873877086-nnm9g8bq8pr6j3tp4b9esf0i113c56qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_gtoucboTpPMCqoDmRl2a1CCScw86TI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675873877086-nnm9g8bq8pr6j3tp4b9esf0i113c56qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

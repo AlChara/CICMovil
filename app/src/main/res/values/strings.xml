@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CICMovil</string>
+    <string name="password">Password</string>
+    <string name="usuario">Usuario</string>
+    <string name="imagen">imagen</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="forgot">Olvido su password?</string>
+    <string name="openDrawer">openDrawer</string>
+    <string name="closeDrawer">closeDrawer</string>
+    <string name="string_about">Acerca de</string>
+    <string name="string_close">Cerrar sesion</string>
+    <string name="string_home">Inicio</string>
+    <string name="string_services">Servicios</string>
+    <string name="string_events">Eventos</string>
+    <string name="string_coment">Consultas y sugerencias</string>
+    <string name="string_paid">Pagos y deudas</string>
+    <string name="string_preferences">Preferencias</string>
+    <string name="string_setttings">Configuraciones</string>
+    <string name="string_contact">Contactos</string>
+</resources>

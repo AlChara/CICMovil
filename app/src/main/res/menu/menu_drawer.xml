@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home"
+            android:title="@string/string_home" />
+        <item
+            android:id="@+id/title_service"
+            android:title="@string/string_services">
+            <menu>
+                <item
+                    android:id="@+id/item_events"
+                    android:icon="@drawable/ic_event"
+                    android:title="@string/string_events" />
+                <item
+                    android:id="@+id/item_coment"
+                    android:icon="@drawable/ic_coment"
+                    android:title="@string/string_coment" />
+                <item
+                    android:id="@+id/item_paid"
+                    android:icon="@drawable/ic_paid"
+                    android:title="@string/string_paid" />
+            </menu>
+        </item>
+        <item android:id="@+id/title_setting"
+              android:title="@string/string_preferences">
+            <menu>
+                <item
+                    android:id="@+id/item_setting"
+                    android:icon="@drawable/ic_settings"
+                    android:title="@string/string_setttings" />
+                <item
+                    android:id="@+id/item_contact"
+                    android:icon="@drawable/ic_contact"
+                    android:title="@string/string_contact" />
+                <item
+                    android:id="@+id/item_close"
+                    android:icon="@drawable/ic_out_session"
+                    android:title="@string/string_close" />
+            </menu>
+        </item>
+    </group>
+
+</menu>
